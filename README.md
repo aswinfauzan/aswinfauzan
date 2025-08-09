@@ -2,7 +2,7 @@
 <h1 align="left">Hi there~ 👋 I'm Aswin!</h1>
 <h2 align="center">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h2>
 
-<p align="left">kevin cello.</p>
+<p align="center">kevin cello.</p>
 
 ###
 <div align="left">
