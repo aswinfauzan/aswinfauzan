@@ -5,7 +5,7 @@
 <p align="left">kevin cello.</p>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://avatars.githubusercontent.com/u/225494340" height="90" style="border-radius: 180px;" />
 </div>
 <br>
