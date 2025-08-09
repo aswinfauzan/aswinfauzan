@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi there~ 👋 I'm Aswin!</h1>
-<h3 align="center">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
+<h2 align="center">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h2>
 
 <p align="left">kevin cello.</p>
 
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aswinfauzan&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
 </div>
 
-<br>
+<br><br><br>
 
 ### 🛠️ Tech Stack
 
