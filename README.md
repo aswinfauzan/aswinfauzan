@@ -2,7 +2,7 @@
 <h2 align="left">Hi there~ 👋 I'm Aswin!</h2>
 <h3 align="center">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
 
-<p align="left">I build cool (messy) stuff, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again, and... sometimes touch grass. Sometimes.</p>
+<p align="left">kevin cello.</p>
 
 ###
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LightNabz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinfauzan&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Mocha User Preview" width=400>
 </div>
 
 <br><br>
@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LightNabz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswinfauzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br><br>
