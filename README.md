@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi there~ 👋 I'm Aswin!</h2>
-<h3 align="left">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
+<h3 align="center">A full-stack developer, digital gremlin, and certified caffeine-fueled NEET from Indonesia 🇮🇩</h3>
 
 <p align="left">I build cool (messy) stuff, mess with servers for fun, and occasionally fall in love with obscure Linux distros. I write code, break it, fix it, then break it again, and... sometimes touch grass. Sometimes.</p>
 
